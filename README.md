@@ -30,13 +30,13 @@ This is a simple SwiftUI application that demonstrates how to **Create**, **Read
 
 📂 Project Structure
 
-SwiftData/SwiftDataExample
-│
-├── Models/
-│   └── Expense.swift
-├── Views/
-|   ├── AddExpenseSheet
-│   ├── ContentView.swift
-│   ├── ExpenseCell.swift
-│   └── UpdateExpenseSheet
-└── SwiftDataExampleApp.swift
+SwiftData/SwiftDataExample  
+│  
+├── Models/  
+│   └── Expense.swift  
+├── Views/  
+│   ├── AddExpenseSheet  
+│   ├── ContentView.swift  
+│   ├── ExpenseCell.swift  
+│   └── UpdateExpenseSheet  
+└── SwiftDataExampleApp.swift 
